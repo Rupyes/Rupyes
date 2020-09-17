@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Spring Boot, Python, Angular, NLP
-- 🌱 I’m currently learning Machine Learning
+- 🔭 I’m currently working on Spring Boot, Python, Angular, NLP, Object Detection
+- 🌱 Learning Machine Learning and Deep Learning
 
 <!--
 **Rupyes/Rupyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
